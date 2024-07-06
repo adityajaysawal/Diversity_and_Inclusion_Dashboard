@@ -5,7 +5,7 @@
 **Program:** Power BI Job Simulation Program  
 **Organization:** PwC  
 **Platform:** Forage
-Check it out here: https://app.powerbi.com/groups/me/reports/b45f2868-4801-444b-9cec-05d48fc18c64/f46afc132e0ae43cbb39?experience=power-bi 
+Check it out here: https://app.powerbi.com/links/yBbjiD8bWI?ctid=ef8d6fc5-3a58-446f-98bc-4597a5e4aa26&pbi_source=linkShare 
 
 **Description:**
 
