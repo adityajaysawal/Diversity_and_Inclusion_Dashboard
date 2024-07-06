@@ -6,6 +6,7 @@
 **Organization:** PwC  
 **Platform:** Forage
 Check it out here: https://app.powerbi.com/groups/me/reports/b45f2868-4801-444b-9cec-05d48fc18c64/f46afc132e0ae43cbb39?experience=power-bi 
+
 **Description:**
 
 In this project, I participated in the Power BI job simulation program at PwC, facilitated through Forage, focusing on Diversity and Inclusion. This hands-on experience involved working on real-world scenarios and datasets to develop comprehensive Power BI reports and dashboards. The project encompassed the following key tasks:
